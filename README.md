@@ -38,9 +38,11 @@ The IMDb dataset contains a large number of movie reviews, each labeled with eit
 imdb-sentiment-analysis/
 ├── data/                   # Dataset files
 ├── notebooks/              # Jupyter notebooks
-│   └── 4_evaluation.ipynb
+│   └── 01_ML_IMDb_Sentiment_Analysis.ipynb
+|   |__02_LSTM_IMDb_Sentiment_Analysis.ipynb
+|   |__03_BERT_IMDb_Sentiment_Analysis.ipynb
 ├── models/                 # models
-├── gradio-app/             # gradio-app
+├── Streamlit_App/          # Streamlit_App
 └── README.md               # This file
 ```
 
